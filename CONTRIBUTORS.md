@@ -2432,3 +2432,8 @@ Noida
 - Place: Chandigarh, Punjab, India
 - Bio: Front End Developer, and a Freelancer
 - GitHub: [CodingWithAmit-07](https://github.com/CodingWithAmit-07)
+
+#### Name: [Bhashitha Adithya](https://github.com/Bhashitha123)
+- Place: Galle, Sri Lanka
+- Bio: Front End Developer, .Net Deverloper and Freelancer
+- GitHub: [Bhashitha123](https://github.com/Bhashitha123)
